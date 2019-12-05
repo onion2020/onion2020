@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: People LVM 2020: People in Language, Vision and the Mind
+title: ONION 2020: peOple in laNguage, vIsiOn and the miNd
 ---
 
 ### A workshop co-located with [LREC 2020](https://lrec2020.lrec-conf.org/en/)
@@ -11,4 +11,4 @@ Human body postures and faces are being studied by researchers from different re
 
 The ability to adequately model and describe people in terms of their body and face is interesting for a variety of language technology applications, e.g., conversational agents and interactive multimodal narrative generation, as well as forensic applications in which people need to be identified or their images generated from textual or spoken descriptions. Such systems need resources and models where images associated with human bodies and faces are coupled with linguistic descriptions, therefore the research needed to develop them is placed at the interface between vision and language research.
 
-By focussing on the modelling and processing of physical characteristics of people, the workshop will explore and further develop a particular area within visual and language research. Furthermore, it will foster novel cross-disciplinary knowledge by soliciting contributions from different fields of research. By attempting to bring results from the cognitive and neurocognitive fields to the attention of the HLT community, it is also in line with the “Language and the Brain” hot topic of LREC 2020.
+By focussing on the modelling and processing of physical characteristics of people, the workshop will explore and further develop a particular area within visual and language research. Furthermore, it will foster novel cross-disciplinary knowledge by soliciting contributions from different fields of research. By attempting to bring results from the cognitive and neurocognitive fields to the attention of the NLP community, it is also in line with the “Language and the Brain” hot topic of LREC 2020.

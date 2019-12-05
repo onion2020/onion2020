@@ -5,7 +5,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 
 minimal_mistakes_skin: "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise
 
-title: "PLASM 2020"
+title: "ONION 2020"
 
 include: 
   - _pages
@@ -13,9 +13,9 @@ include:
   - assets
 
 author:
-  name      : "PLASM 2020"
-  avatar    : "/assets/face.svg"
-  bio       : "Workshop on People in Language, viSion and the Mind. This workshop is dedicated to multimodal approaches to describing people in terms of their bodies and faces."
+  name      : "ONION 2020"
+  avatar    : "/assets/onion.svg"
+  bio       : "Workshop on peOple in laNguage, vIsiOn and the miNd. This workshop is dedicated to multimodal approaches to describing people in terms of their bodies and faces."
   location  : "Marseille, France"
 
 defaults:

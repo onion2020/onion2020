@@ -15,8 +15,10 @@ title: Programme Committee
 - Gerard de Melo, Rutgers University
 - Gholamreza Anbarjafari, University of Tartu
 - Isabella Poggi, Roma Tre University
+- Isabel Gaultier, Vanderbilt University
 - Jan Snajder, University of Zagreb
 - Jordi Gonzalez, Universitat Autònoma de Barcelona
+- Kristiina.Jokinen, National Institute of Advanced Industrial Science and Technology (AIST), Japan
 - Lonneke van der Plas, University of Malta
 - Michael Tarr, Carnegie Mellon University
 - Paul Buitelaar, National University of Ireland, Galway
