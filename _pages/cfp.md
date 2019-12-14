@@ -11,6 +11,9 @@ We invite both short and long papers, which may fall into the following categori
 - Survey and/or position papers
 - Demo papers
 
+*Authors are strongly encouraged to identify and discuss ethical issues arising from their work, insofar as it involves the use of image data or descriptions of people.*
+
+
 Relevant topics include, but are not limited to:
 
 - Datasets of facial images and descriptions
@@ -27,6 +30,9 @@ Relevant topics include, but are not limited to:
 - Understanding and description of the human face and body in different contexts, including commercial applications, art, forensics, etc. 
 - Modelling of the human body, face and facial expressions for embodied conversational agents
 - Generation of full-body images and/or facial images from textual descriptions
+- Ethical and data protection issues related to the collection and/or automatic description of images of real people
+- Any form of bias in models which seek to make sense of human physical attributes in language and vision.
+
 
 
 
