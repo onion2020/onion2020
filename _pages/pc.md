@@ -11,6 +11,7 @@ title: Programme Committee
 - David Hogg, University of Leeds
 - Diego Frassinelli, University of Stuttgart
 - Isabella Poggi, Roma Tre University
+- Jonas Beskow, KTH Speech, Music and Hearing
 - Jordi Gonzalez, Universitat Autònoma de Barcelona
 - Kristiina Jokinen, National Institute of Advanced Industrial Science and Technology (AIST)
 - Mihael Arcan,  National University of Ireland, Galway
