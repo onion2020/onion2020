@@ -9,7 +9,7 @@ title: Programme Committee
 - Catherine Pelachaud, Institute for Intelligent Systems and Robotics, UPMC and CNRS 
 - Costanza Navarretta, CST, University of Copenhagen
 - David Hogg, University of Leeds
-- Diego Frassinelli, University of Stuttgart
+- Diego Frassinelli, University of Konstanz
 - Isabella Poggi, Roma Tre University
 - Jonas Beskow, KTH Speech, Music and Hearing
 - Jordi Gonzalez, Universitat Autònoma de Barcelona
