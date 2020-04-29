@@ -1,6 +1,6 @@
 ---
 permalink: /organisers/
-title: PLASM 2020 Organisers
+title: ONION 2020 Organisers
 ---
 
 - [Patrizia Paggio](https://www.um.edu.mt/profile/patriziapaggio), University of Copenhagen, Denmark and University of Malta, Malta
