@@ -1,9 +1,11 @@
 main:
   - title: "Call for papers"
     url: /cfp/
-  - title: "Important Dates"
+  - title: "Dates"
     url: /dates/
   - title: "Organisers"
     url: /organisers/
-  - title: "Programme Committee"
+  - title: "Committee"
     url: /pc/
+  - title: "Workshop presentations"
+    url: /presentations/
