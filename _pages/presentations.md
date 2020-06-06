@@ -1,3 +1,8 @@
+---
+permalink: /presentations/
+title: Workshop Presentations and Proceedings
+---
+
 # ONION Online Workshop
 
 As you know, we could not meet meet face-to-face this year at the LREC in Marseille. Instead, we asked the authors of accepted papers to record a presentation video. You find these videos on this page, together with links to the papers. This is a temporary page. The videos will be at the LREC website and the ACL Anthology later.
