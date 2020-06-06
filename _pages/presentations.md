@@ -33,7 +33,7 @@ A Youtube Playlist of all the videos can be found [here](https://www.youtube.com
 * Presented by Taiga Mori
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dqJe_0v-9aI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-{:target="_blank"}.
+
 ## [Automatic Detection and Classification of Head Movements in Face-to-Face Conversations](https://www.aclweb.org/anthology/2020.onion-1.3/){:target="_blank"}.
 
 * [Patrizia Paggio](https://www.aclweb.org/anthology/people/p/patrizia-paggio/) | [Manex Agirrezabal](https://www.aclweb.org/anthology/people/m/manex-agirrezabal/) | [Bart Jongejan](https://www.aclweb.org/anthology/people/b/bart-jongejan/) | [Costanza Navarretta](https://www.aclweb.org/anthology/people/c/costanza-navarretta/)
