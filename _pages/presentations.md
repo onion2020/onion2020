@@ -18,7 +18,7 @@ A Youtube Playlist of all the videos can be found [here](https://www.youtube.com
 * Patrizia Paggio, Albert Gatt, and Roman Klinger
 * Presented by Patrizia Paggio
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qFeIkIpZwpc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EfMW38JyXwE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [Prototypes and Recognition of Self in Depictions of Christ](https://www.aclweb.org/anthology/2020.onion-1.1/){:target="_blank"}.
 
